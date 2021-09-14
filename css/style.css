@@ -6,7 +6,7 @@ body {
   background-color: #f0f2f5;
 }
 .color-primary{
-  color: #f48c06;
+  color: #ff7b00;
 }
 .color-secondary{
   color: rgb(151, 113, 113)
@@ -26,30 +26,30 @@ body {
 }
 
 .button-primary {
-  background-color: #f48c06;
+  background-color: #ff7b00;
   color: rgb(255, 255, 255);
   padding: 10px 20px;
   border-radius: 5px;
   border: 0px;
 }
 .button-primary:hover {
-  color: #f48c06;
+  color: #ff7b00;
   padding: 10px 20px;
   border-radius: 5px;
-  border: 2px solid #f48c06;
+  border: 2px solid #ff7b00;
   background-color: transparent;
   transition: all 0.4s ease-in-out 0s;
 }
 .button-secondary {
-  color: #f48c06;
+  color: #ff7b00;
   padding: 10px 20px;
   border-radius: 5px;
-  border: 1px solid #f48c06;
+  border: 1px solid #ff7b00;
   background-color: rgb(255, 255, 255);
 }
 
 .button-secondary:hover {
-  background-color: #f48c06;
+  background-color: #ff7b00;
   color: rgb(255, 255, 255);
   border: 0px;
   transition: all 0.4s ease-in-out 0s;
