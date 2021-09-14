@@ -11,6 +11,9 @@ body {
 .color-secondary{
   color: rgb(151, 113, 113)
 }
+.title{
+  font-size: 50px;
+}
 .search-field {
   border: none;
   border-radius: 50px;
